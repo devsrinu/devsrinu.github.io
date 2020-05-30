@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Ruminations...</title>
-    <link>https://devsrinu.github.io/blog/</link>
-    <description>Recent content in Blog on Ruminations...</description>
+    <title>SSL on Ruminations...</title>
+    <link>https://devsrinu.github.io/categories/ssl/</link>
+    <description>Recent content in SSL on Ruminations...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://devsrinu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devsrinu.github.io/categories/ssl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,20 +21,6 @@
 Naturally the next question is: what would be used to encrypt the data?
 There are two possibilities:
  Use assymetric key encryption Use a symmetric key  Assymetric key encryption has the advantage of using public (which is of course public) key of your recipient to encrypt the data.</description>
-    </item>
-    
-    <item>
-      <title>Get to know how authentication is evolving</title>
-      <link>https://devsrinu.github.io/blog/how-was-your-login/</link>
-      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://devsrinu.github.io/blog/how-was-your-login/</guid>
-      <description>How was your login today? “Software is eating the world”. That’s really true these days. Can you imagine not having your phone for a day? Also true: You need to login to do any meaningful work.
-Also true: Your data is very valuable than ever.
-Also true: Most of the websites, apps provide poor login/authentication experience.
-Why is it so?
-It is for a variety of reasons:
-  Authentication is not the core experience of most businesses, but every app needs to authenticate the users.</description>
     </item>
     
   </channel>

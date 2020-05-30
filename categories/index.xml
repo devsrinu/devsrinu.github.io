@@ -1,40 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Future Imperfect</title>
+    <title>Categories on Ruminations...</title>
     <link>https://devsrinu.github.io/categories/</link>
-    <description>Recent content in Categories on Hugo Future Imperfect</description>
+    <description>Recent content in Categories on Ruminations...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://devsrinu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hugo</title>
-      <link>https://devsrinu.github.io/categories/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Security</title>
+      <link>https://devsrinu.github.io/categories/security/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/categories/hugo/</guid>
+      <guid>https://devsrinu.github.io/categories/security/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://devsrinu.github.io/categories/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>SSL</title>
+      <link>https://devsrinu.github.io/categories/ssl/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/categories/go/</guid>
+      <guid>https://devsrinu.github.io/categories/ssl/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jekyll</title>
-      <link>https://devsrinu.github.io/categories/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Authentication</title>
+      <link>https://devsrinu.github.io/categories/authentication/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/categories/jekyll/</guid>
+      <guid>https://devsrinu.github.io/categories/authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MFA</title>
+      <link>https://devsrinu.github.io/categories/mfa/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://devsrinu.github.io/categories/mfa/</guid>
       <description></description>
     </item>
     
