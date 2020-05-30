@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ruminations...</title>
-    <link>https://devsrinu.github.io/categories/</link>
+    <link>https://srini.nag4s.world/categories/</link>
     <description>Recent content in Categories on Ruminations...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://devsrinu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://srini.nag4s.world/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Security</title>
-      <link>https://devsrinu.github.io/categories/security/</link>
+      <link>https://srini.nag4s.world/categories/security/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/categories/security/</guid>
+      <guid>https://srini.nag4s.world/categories/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SSL</title>
-      <link>https://devsrinu.github.io/categories/ssl/</link>
+      <link>https://srini.nag4s.world/categories/ssl/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/categories/ssl/</guid>
+      <guid>https://srini.nag4s.world/categories/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Authentication</title>
-      <link>https://devsrinu.github.io/categories/authentication/</link>
+      <link>https://srini.nag4s.world/categories/authentication/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/categories/authentication/</guid>
+      <guid>https://srini.nag4s.world/categories/authentication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MFA</title>
-      <link>https://devsrinu.github.io/categories/mfa/</link>
+      <link>https://srini.nag4s.world/categories/mfa/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/categories/mfa/</guid>
+      <guid>https://srini.nag4s.world/categories/mfa/</guid>
       <description></description>
     </item>
     

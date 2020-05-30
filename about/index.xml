@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Srini on Ruminations...</title>
-    <link>https://devsrinu.github.io/about/</link>
+    <link>https://srini.nag4s.world/about/</link>
     <description>Recent content in About Srini on Ruminations...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://devsrinu.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://srini.nag4s.world/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruminations...</title>
-    <link>https://devsrinu.github.io/</link>
+    <link>https://srini.nag4s.world/</link>
     <description>Recent content on Ruminations...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://devsrinu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://srini.nag4s.world/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How symmetric keys are generated in SSL handshake</title>
-      <link>https://devsrinu.github.io/blog/symmetric-keys-in-ssl-handshake/</link>
+      <link>https://srini.nag4s.world/blog/symmetric-keys-in-ssl-handshake/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/blog/symmetric-keys-in-ssl-handshake/</guid>
+      <guid>https://srini.nag4s.world/blog/symmetric-keys-in-ssl-handshake/</guid>
       <description>Background The high level idea of SSL (the technology to keep your internet connection secure) is to encrypt the data that is exchanged between the server and the client.
 Naturally the next question is: what would be used to encrypt the data?
 There are two possibilities:
@@ -25,10 +25,10 @@ There are two possibilities:
     
     <item>
       <title>Get to know how authentication is evolving</title>
-      <link>https://devsrinu.github.io/blog/how-was-your-login/</link>
+      <link>https://srini.nag4s.world/blog/how-was-your-login/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/blog/how-was-your-login/</guid>
+      <guid>https://srini.nag4s.world/blog/how-was-your-login/</guid>
       <description>How was your login today? “Software is eating the world”. That’s really true these days. Can you imagine not having your phone for a day? Also true: You need to login to do any meaningful work.
 Also true: Your data is very valuable than ever.
 Also true: Most of the websites, apps provide poor login/authentication experience.
@@ -39,37 +39,37 @@ It is for a variety of reasons:
     
     <item>
       <title>Fancy App 1</title>
-      <link>https://devsrinu.github.io/itemized/item1/</link>
+      <link>https://srini.nag4s.world/itemized/item1/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/itemized/item1/</guid>
+      <guid>https://srini.nag4s.world/itemized/item1/</guid>
       <description>App 1 </description>
     </item>
     
     <item>
       <title>Fancy App 2</title>
-      <link>https://devsrinu.github.io/itemized/item2/</link>
+      <link>https://srini.nag4s.world/itemized/item2/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/itemized/item2/</guid>
+      <guid>https://srini.nag4s.world/itemized/item2/</guid>
       <description>App 2 </description>
     </item>
     
     <item>
       <title>Fancy App 3</title>
-      <link>https://devsrinu.github.io/itemized/item3/</link>
+      <link>https://srini.nag4s.world/itemized/item3/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/itemized/item3/</guid>
+      <guid>https://srini.nag4s.world/itemized/item3/</guid>
       <description>App 3 </description>
     </item>
     
     <item>
       <title>Fancy App 4</title>
-      <link>https://devsrinu.github.io/itemized/item4/</link>
+      <link>https://srini.nag4s.world/itemized/item4/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/itemized/item4/</guid>
+      <guid>https://srini.nag4s.world/itemized/item4/</guid>
       <description>App 4 </description>
     </item>
     

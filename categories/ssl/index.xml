@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SSL on Ruminations...</title>
-    <link>https://devsrinu.github.io/categories/ssl/</link>
+    <link>https://srini.nag4s.world/categories/ssl/</link>
     <description>Recent content in SSL on Ruminations...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://devsrinu.github.io/categories/ssl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://srini.nag4s.world/categories/ssl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How symmetric keys are generated in SSL handshake</title>
-      <link>https://devsrinu.github.io/blog/symmetric-keys-in-ssl-handshake/</link>
+      <link>https://srini.nag4s.world/blog/symmetric-keys-in-ssl-handshake/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/blog/symmetric-keys-in-ssl-handshake/</guid>
+      <guid>https://srini.nag4s.world/blog/symmetric-keys-in-ssl-handshake/</guid>
       <description>Background The high level idea of SSL (the technology to keep your internet connection secure) is to encrypt the data that is exchanged between the server and the client.
 Naturally the next question is: what would be used to encrypt the data?
 There are two possibilities:

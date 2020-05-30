@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>article on Ruminations...</title>
-    <link>https://devsrinu.github.io/tags/article/</link>
+    <link>https://srini.nag4s.world/tags/article/</link>
     <description>Recent content in article on Ruminations...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://devsrinu.github.io/tags/article/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://srini.nag4s.world/tags/article/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How symmetric keys are generated in SSL handshake</title>
-      <link>https://devsrinu.github.io/blog/symmetric-keys-in-ssl-handshake/</link>
+      <link>https://srini.nag4s.world/blog/symmetric-keys-in-ssl-handshake/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/blog/symmetric-keys-in-ssl-handshake/</guid>
+      <guid>https://srini.nag4s.world/blog/symmetric-keys-in-ssl-handshake/</guid>
       <description>Background The high level idea of SSL (the technology to keep your internet connection secure) is to encrypt the data that is exchanged between the server and the client.
 Naturally the next question is: what would be used to encrypt the data?
 There are two possibilities:
@@ -25,10 +25,10 @@ There are two possibilities:
     
     <item>
       <title>Get to know how authentication is evolving</title>
-      <link>https://devsrinu.github.io/blog/how-was-your-login/</link>
+      <link>https://srini.nag4s.world/blog/how-was-your-login/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/blog/how-was-your-login/</guid>
+      <guid>https://srini.nag4s.world/blog/how-was-your-login/</guid>
       <description>How was your login today? “Software is eating the world”. That’s really true these days. Can you imagine not having your phone for a day? Also true: You need to login to do any meaningful work.
 Also true: Your data is very valuable than ever.
 Also true: Most of the websites, apps provide poor login/authentication experience.

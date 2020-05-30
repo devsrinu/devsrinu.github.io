@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ruminations...</title>
-    <link>https://devsrinu.github.io/tags/</link>
+    <link>https://srini.nag4s.world/tags/</link>
     <description>Recent content in Tags on Ruminations...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://devsrinu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://srini.nag4s.world/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>article</title>
-      <link>https://devsrinu.github.io/tags/article/</link>
+      <link>https://srini.nag4s.world/tags/article/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devsrinu.github.io/tags/article/</guid>
+      <guid>https://srini.nag4s.world/tags/article/</guid>
       <description></description>
     </item>
     
