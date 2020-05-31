@@ -528,9 +528,6 @@
 
 
   
-  
-    
-  
 
 
         
@@ -538,7 +535,7 @@
         
 
         <a href="https://srini.nag4s.world/blog/symmetric-keys-in-ssl-handshake/" class="image featured">
-            <img src="https://srini.nag4s.world/img/2020/052020/05/symmetric_key.png" alt="">
+            <img src="https://srini.nag4s.world/img//symmetric_key.png" alt="">
         </a>
     
 
@@ -553,13 +550,13 @@
 <li>Use a symmetric key</li>
 </ol>
 <p>Assymetric key encryption has the advantage of using public (which is of course public) key of your recipient to encrypt the data. Recipient then uses his secret private key to decrypt the data.</p>
-<p><em>Whats the downside?</em></p>
+<h3 id="whats-the-downside"><strong>Whats the downside?</strong></h3>
 <p>The risk is that if an attacker is recording the encryted messages. In the future if the attacker manages to get the private key of the recipient, he/she would be able to decrypt the previously recorded encrypted messages.</p>
 <p>That&rsquo;s where <strong>ephemeral</strong> symmetric keys are useful.</p>
 <p>The idea is to generate <strong>short lived</strong> symmetric key and use that to encrypt, decrypt the messages.</p>
 <p>This achieves what is called as Forward Secrecy that protects past sessions against future compromises of secret keys.</p>
 <p>This post is about giving a high level overview of the math (using an example) involved in generating a symmetric key.</p>
-<p>The key aspect of this particular approach is that it doesn&rsquo;t require any prior knowledge of each other.</p>
+<p>The key aspect of this particular approach is that it doesn&rsquo;t require <strong>any prior knowledge of each other</strong>.</p>
 <h2 id="the-math">The Math</h2>
 <p>The math involves the following one-way function:  <strong><code>$$Y^X(mod P)$$</code></strong>
 The involved parties agree upon values for <code>$Y$</code> and <code>$P$</code>. In reality the values are fixed and very <strong>large prime</strong> numbers.</p>
@@ -773,6 +770,9 @@ The involved parties agree upon values for <code>$Y$</code> and <code>$P$</code>
 
 
   
+  
+    
+  
 
 
         
@@ -780,7 +780,7 @@ The involved parties agree upon values for <code>$Y$</code> and <code>$P$</code>
         
 
         <a href="https://srini.nag4s.world/blog/how-was-your-login/" class="image featured">
-            <img src="https://srini.nag4s.world/img//login.jpg" alt="">
+            <img src="https://srini.nag4s.world/img/2020/02/login.jpg" alt="">
         </a>
     
 
