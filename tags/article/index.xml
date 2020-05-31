@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>How symmetric keys are generated in SSL handshake</title>
+      <title>The math behind symmetric keys generation in SSL handshake</title>
       <link>https://srini.nag4s.world/blog/symmetric-keys-in-ssl-handshake/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
@@ -24,7 +24,7 @@ There are two possibilities:
     </item>
     
     <item>
-      <title>Get to know how authentication is evolving</title>
+      <title>How was your login today?</title>
       <link>https://srini.nag4s.world/blog/how-was-your-login/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       

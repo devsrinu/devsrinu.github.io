@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>How symmetric keys are generated in SSL handshake</title>
+      <title>The math behind symmetric keys generation in SSL handshake</title>
       <link>https://srini.nag4s.world/blog/symmetric-keys-in-ssl-handshake/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
